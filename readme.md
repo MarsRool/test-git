@@ -36,8 +36,7 @@ Info
     Contributing
     --
     Fork it ( https://github.com/[my-github-username]/versioning/fork )
-    <a href="https://github.com/%5Bmy-github-username%5D/versioning/fork">https://github.com/[my-github-username]/versioning/fork</a>
-    
+      
     Create your feature branch (git checkout -b my-new-feature)
     Commit your changes (git commit -am 'Add some feature')
     Push to the branch (git push origin my-new-feature)
